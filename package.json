@@ -1,0 +1,14 @@
+{
+	"name": "bitbucket-pull-request-report",
+	"version": "0.0.1",
+	"description": "Bitbucket Pull Request Report",
+	"dependencies": {
+		"bitbucketjs": "1.0.2",
+		"mailgun-js": "0.7.13",
+		"ms": "0.7.2"
+	},
+	"scripts": {
+		"prestart": "npm install",
+		"start": "node server.js"
+	}
+}
