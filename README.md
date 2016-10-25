@@ -1,5 +1,7 @@
 # Bitbucket Opened Pull Requests Report
 
+[![Dependency Status](https://img.shields.io/david/gastonmancini/bitbucket-opened-pullrequests-report.svg?style=flat-square)](https://david-dm.org/gastonmancini/bitbucket-opened-pullrequests-report)
+
 The application is a simple Node.js app that is used to send a daily report (reminders) of the openened BitBucket Pull Requests to your team
 
 ## Overview
