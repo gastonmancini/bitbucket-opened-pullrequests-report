@@ -7,7 +7,6 @@ The application is a simple Node.js app that is used to send a daily report (rem
 ## Overview
 
 - Communicates with [Bibucket API v2](https://developer.atlassian.com/bitbucket/api/2/reference/) using the [BitbucketJs client](https://bitbucket.org/atlassian/bitbucketjs)
-- Send emails using [Mailgun](https://www.mailgun.com/)
 
 ### Install Dependencies
 
@@ -25,17 +24,13 @@ You should find that you have a new folder in your project:
 
 ### Config
 
-You will need to setup the Mailgun SMTP and BitBucket credentials in the settings.json file included in the app
+You will need to setup the SMTP and BitBucket credentials in the settings.json file included in the app
 
 ### Run the Application
 
-The simplest way to start this server is:
-
 ```
-node server.js
+npm start
 ```
-
-Now browse to the app at `http://localhost:3000/`.
 
 ### Issues
 

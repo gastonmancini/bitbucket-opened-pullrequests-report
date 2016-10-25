@@ -4,8 +4,8 @@
 	"description": "Bitbucket Pull Request Report",
 	"dependencies": {
 		"bitbucketjs": "1.0.2",
-		"mailgun-js": "0.7.13",
-		"ms": "0.7.2"
+		"nodemailer": "2.6.4",
+		"q": "1.4.1"
 	},
 	"scripts": {
 		"prestart": "npm install",

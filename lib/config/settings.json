@@ -1,20 +1,22 @@
 {
   "development": {
-    "smtp_domain": "",
-    "smtp_api_key": "",
+    "smtp_host": "",
+    "smtp_port": "",
+    "smtp_user": "",
+    "smtp_password": "",
     "from_email_address": "",
     "to_email_address": "",
-    "base_url": "",
     "bitbucket_user": "",
     "bitbucket_password": "",
     "bitbucket_teamname": ""
   },
   "production": {
-    "smtp_domain": "",
-    "smtp_api_key": "",
+    "smtp_host": "",
+    "smtp_port": "",
+    "smtp_user": "",
+    "smtp_password": "",
     "from_email_address": "",
     "to_email_address": "",
-    "base_url": "",
     "bitbucket_user": "",
     "bitbucket_password": "",
     "bitbucket_teamname": ""
