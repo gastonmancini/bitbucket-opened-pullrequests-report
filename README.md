@@ -1,6 +1,6 @@
 # Bitbucket Opened Pull Requests Report
 
-The application is a simple Node.js app that is used to send a daily report (reminders) of the openened BitBucket Pull Requests to your team in
+The application is a simple Node.js app that is used to send a daily report (reminders) of the openened BitBucket Pull Requests to your team
 
 ## Overview
 
